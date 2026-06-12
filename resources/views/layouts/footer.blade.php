@@ -1,17 +1,7 @@
- <style>
-     .footer {
-         position: absolute;
-         bottom: 0;
-         right: 0;
-         height: 50px;
-         width: 100%;
-         background-color: #303030;
-         color: #fefefe;
-         text-align: center;
-         line-height: 50px;
-     }
- </style>
-
- <footer class="footer">
-     <span>@copyright Ebieth Laravel 12</span>
- </footer>
+    <footer class="sticky-footer bg-white">
+        <div class="container my-auto">
+            <div class="copyright text-center my-auto">
+                <span>Copyright &copy; Gabriel Daten Leyn - 2026</span>
+            </div>
+        </div>
+    </footer>
