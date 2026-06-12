@@ -197,7 +197,7 @@ Proyek ini dikembangkan sebagai media pembelajaran dan eksplorasi fitur-fitur La
 Jika Anda memiliki pertanyaan, saran, atau ingin berkolaborasi, silakan hubungi:
 
 - **GitHub:** https://github.com/Ebiethleyn
-- **LinkedIn:** Ebieth Leyn
+- **LinkedIn:** [Ebieth Leyn](https://www.linkedin.com/in/ebieth-leyn-57376320a/)
 
 ---
 
